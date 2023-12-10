@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashubieber
 - 👀 I’m interested reading book and learning new things
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on some company for internship
+- 🌱 I’m currently Learning Fullstack Development.
+- 💞️ I’m looking to collaborate on some company for internship or Job
 - 📫 How to reach me http://www.linkedin.com/in/ashutosh-kumar-03a510214
 
 <!---
